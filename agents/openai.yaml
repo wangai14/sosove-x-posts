@@ -1,0 +1,4 @@
+interface:
+  display_name: "SOSOVE X Posts"
+  short_description: "Daily SOSOVE X copy and browser posting."
+  default_prompt: "Use $sosove-x-posts to draft 5 seasonal Japanese X posts for SOSOVE, include image prompts when I need to generate images, and batch-publish all 5 if I ask for automation."
